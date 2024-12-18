@@ -1,0 +1,1 @@
+This is an example lab from CS63 Artificial Intelligence with Ben Mitchell. The methods implemented in the parent directory were our own code, while all of the files in the src folder are source code.
